@@ -1,0 +1,6 @@
+[submodule "geolocation"]
+	path = geolocation
+	url = git@github.com:jagl16/geolocation.git
+[submodule "assetsmanager"]
+	path = assetsmanager
+	url = git@github.com:jagl16/assetsmanager.git
