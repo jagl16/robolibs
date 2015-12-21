@@ -4,3 +4,9 @@
 [submodule "assetsmanager"]
 	path = assetsmanager
 	url = git@github.com:jagl16/assetsmanager.git
+[submodule "resourceloader"]
+	path = resourceloader
+	url = git@github.com:jagl16/resourceloader.git
+[submodule "deviceinfo"]
+	path = deviceinfo
+	url = git@github.com:jagl16/deviceinfo.git
